@@ -7,4 +7,5 @@ function edadDias(){
     return edad*365;
 }
 
+console.log('ejercicio1');
 console.log("Tener " + edad + " años, es igual a tener " + edadDias() + "días de vida") 

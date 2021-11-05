@@ -7,4 +7,5 @@ function horaSegundos(hora){
     return hora*60;
 };
 
+console.log('ejercicio2');
 console.log('50 horas equivalen a ' + horaSegundos(50) + ' segundos'); 
